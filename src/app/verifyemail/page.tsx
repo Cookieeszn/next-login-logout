@@ -42,7 +42,7 @@ export default function VerifyEmail() {
           <Link href="/login">Log in</Link>
         </div>
       )}
-      {!error ? (
+      {error ? (
         <div>
           <h2 className="text-2xl bg-red-500 text-black rounded-lg p-2 mt-4">
             Error
