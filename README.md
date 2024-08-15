@@ -1,3 +1,6 @@
+### IMPORTANT: 
+Currently I have an issue hosting websites on Github Pages. If you want to explore my project, please follow the next instructions.
+
 # Project Title
 
 A brief description of your project and what it does.
