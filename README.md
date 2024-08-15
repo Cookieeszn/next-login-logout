@@ -1,9 +1,13 @@
-### IMPORTANT: 
+# IMPORTANT: 
 Currently I have an issue hosting websites on Github Pages. If you want to explore my project, please follow the next instructions.
 
 # Project Title
 
-A brief description of your project and what it does.
+A web application built with Next.js and MongoDB.
+
+## Short description
+
+This project is a user authentication platform where you can sign up and log in to your account. When a new account is created, the user information is securely stored in a MongoDB database. Depending on the account type, users may have access to additional features, such as admin functionalities.
 
 ## Getting Started
 
